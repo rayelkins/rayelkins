@@ -1,8 +1,8 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-[![Header](https://raw.githubusercontent.com/rayelkins/rayelkins/readme_header.png "Header")]
+[![Header](https://github.com/rayelkins/rayelkins/blob/master/readme_header.png "Header")]
 
-# Hello, world! <img src="https://raw.githubusercontent.com/rayelkins/rayelkins/wave.gif" width="30px">
+# Hello, world! <img src="https://github.com/rayelkins/rayelkins/blob/master/wave.gif" width="30px">
 
 My name Ray Elkins. I'm an AWS Senior Solutions Architect by day, a beginning software developer by night. The first language I am learning is Python. My main focus is how Python is used to enable serverless workflows in AWS.You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3]. Feel free to say hello.
 
