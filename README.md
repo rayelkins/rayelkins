@@ -4,7 +4,7 @@
 
 # Hello, world! <img src="https://github.com/rayelkins/rayelkins/blob/master/wave.gif" width="30px">
 
-My name Ray Elkins. I'm an AWS Senior Solutions Architect by day, a beginning software developer by night. The first language I am learning is Python. My main focus is how Python is used to enable serverless workflows in AWS. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name Ray Elkins. I'm an AWS Senior Solutions Architect by day, a beginning software developer by night. The first language I am learning is Python. My main focus is how Python is used to enable serverless workflows in AWS. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3]
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
@@ -16,11 +16,10 @@ My name Ray Elkins. I'm an AWS Senior Solutions Architect by day, a beginning so
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/rayelkins/rayelkins">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayelkins&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-
-<a href="https://github.com/rayelkins/rayelkins">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rayelkins&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+<a href="https://github.com/rayelkins/rayelkins">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayelkins&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/rayelkins/Lambda-Boto3-Examples">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rayelkins&repo=Lambda-Boto3-Examples&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
