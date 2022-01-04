@@ -4,7 +4,7 @@
 
 # Hello, world! <img src="https://github.com/rayelkins/rayelkins/blob/master/wave.gif" width="30px">
 
-My name Ray Elkins. I'm an AWS Senior Solutions Architect by day, a beginning software developer by night. The first language I am learning is Python. My main focus is how Python is used to enable serverless workflows in AWS.You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3]. Feel free to say hello.
+My name Ray Elkins. I'm an AWS Senior Solutions Architect by day, a beginning software developer by night. The first language I am learning is Python. My main focus is how Python is used to enable serverless workflows in AWS. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3]. Feel free to say hello.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
@@ -36,14 +36,14 @@ My name Ray Elkins. I'm an AWS Senior Solutions Architect by day, a beginning so
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/rayelkins/rayelkins/linkedin-3-16.png (LinkedIn icon without padding)
+[3.2]: https://github.com/rayelkins/rayelkins/blob/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 
 <!-- links to your social media accounts -->
 
 [1]: https://twitter.com/whoisrayelkins
 [2]: https://github.com/rayelkins
-[3]: www.linkedin.com/in/ray-elkins
+[3]: https://www.linkedin.com/in/ray-elkins/
 
 
 <!-- Resources -->
