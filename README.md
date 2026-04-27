@@ -38,6 +38,12 @@ I spend my days helping enterprise customers architect secure, scalable cloud in
 ![Agentic AI](https://img.shields.io/badge/Focus-Agentic_AI-informational?style=flat&logo=openai&logoColor=white&color=412991)
 ![Product](https://img.shields.io/badge/Role-Technical_PM-informational?style=flat&logo=productboard&logoColor=white&color=E15329)
 
+**Agentic Coding Tools**
+
+![Kiro](https://img.shields.io/badge/Agentic-Kiro-informational?style=flat&logo=amazonaws&logoColor=white&color=232F3E)
+![Antigravity](https://img.shields.io/badge/Agentic-Antigravity-informational?style=flat&logo=rocketdotchat&logoColor=white&color=5A2D82)
+![Claude Code](https://img.shields.io/badge/Agentic-Claude_Code-informational?style=flat&logo=anthropic&logoColor=white&color=C87533)
+
 ---
 
 ### 📌 Featured Work
