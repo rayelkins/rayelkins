@@ -50,7 +50,7 @@ I spend my days helping enterprise customers architect secure, scalable cloud in
 
 > *More projects coming soon, including agentic AI explorations, PRD artifacts, and AWS solution samples.*
 
-[![Lambda Boto3 Examples](https://github-readme-stats.vercel.app/api/pin/?username=rayelkins&repo=Lambda-Boto3-Examples&title_color=ffffff&text_color=c9cacc&icon_color=FF9900&bg_color=1d1f21)](https://github.com/rayelkins/Lambda-Boto3-Examples)
+[![AWS Secrets Manager Audit](https://github-readme-stats.vercel.app/api/pin/?username=rayelkins&repo=sample-secrets-manager-audit&title_color=ffffff&text_color=c9cacc&icon_color=FF9900&bg_color=1d1f21)](https://github.com/rayelkins/sample-secrets-manager-audit)
 
 ---
 
