@@ -10,7 +10,7 @@
 
 ### Hi, I'm Ray Elkins
 
-Senior Solutions Architect at **AWS** · Technical Product Manager · Technical Product Manager · Focused on **Agentic AI use cases**
+Senior Solutions Architect at **AWS** · Technical Product Manager · Technical Product Manager · Focused on **Agentic AI use cases and Enterprise Security**
 
 I spend my days helping enterprise customers architect secure, scalable cloud infrastructure on AWS. I bring both deep technical architecture expertise and product management skills to the problems I solve, with a growing focus on agentic AI systems and what they unlock for enterprise teams.
 
