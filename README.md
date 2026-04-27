@@ -40,8 +40,8 @@ I spend my days helping enterprise customers architect secure, scalable cloud in
 
 **Agentic Coding Tools**
 
-![Kiro](https://img.shields.io/badge/Agentic-Kiro-informational?style=flat&logo=amazonaws&logoColor=white&color=232F3E)
-![Antigravity](https://img.shields.io/badge/Agentic-Antigravity-informational?style=flat&logo=rocketdotchat&logoColor=white&color=5A2D82)
+![AWS Kiro](https://img.shields.io/badge/Agentic-Kiro-informational?style=flat&logo=amazonaws&logoColor=white&color=232F3E)
+![Google Antigravity](https://img.shields.io/badge/Agentic-Antigravity-informational?style=flat&logo=rocketdotchat&logoColor=white&color=5A2D82)
 ![Claude Code](https://img.shields.io/badge/Agentic-Claude_Code-informational?style=flat&logo=anthropic&logoColor=white&color=C87533)
 
 ---
