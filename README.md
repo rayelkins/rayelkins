@@ -1,55 +1,68 @@
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
+<!-- Ray Elkins — GitHub Profile README -->
 
-![Header](https://github.com/rayelkins/rayelkins/blob/master/readme_header.png "Header")
+<div align="center">
 
-# Hello, world! <img src="https://github.com/rayelkins/rayelkins/blob/master/wave.gif" width="30px">
+![Header](https://github.com/rayelkins/rayelkins/blob/master/readme_header.png)
 
-My name Ray Elkins. I'm an AWS Senior Solutions Architect by day, an aspiring software developer by night. The first language I am learning is Python. My main focus is how Python is used to enable serverless workflows in AWS. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3]
+</div>
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Amazon_Web_Services-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
+---
 
-## &#x1f4c8; GitHub Stats
+### Hi, I'm Ray Elkins
 
-<a href="https://github.com/rayelkins/rayelkins">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rayelkins&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
-<a href="https://github.com/rayelkins/Lambda-Boto3-Examples">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rayelkins&repo=Lambda-Boto3-Examples&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> 
-<a href="https://github.com/rayelkins/rayelkins">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayelkins&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a> 
+Senior Solutions Architect at **AWS** · Technical Product Manager · Focused on **Agentic AI**
 
-<!-- links to social media icons -->
+I spend my days helping enterprise customers architect secure, scalable cloud infrastructure on AWS. I bring both deep technical architecture expertise and product management skills to the problems I solve, with a growing focus on agentic AI systems and what they unlock for enterprise teams.
 
-<!-- icons with padding -->
+📍 San Diego, CA &nbsp;|&nbsp; 🎓 MBA, CSUSM &nbsp;|&nbsp; 🌐 [rayelkins.com](https://rayelkins.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/ray-elkins/)
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+---
 
-<!-- icons without padding -->
+### 🏗️ What I Work With
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://github.com/rayelkins/rayelkins/blob/master/linkedin-3-16.png (LinkedIn icon without padding)
+**Cloud & Infrastructure**
 
+![AWS](https://img.shields.io/badge/AWS-Cloud-informational?style=flat&logo=amazonaws&logoColor=white&color=232F3E)
+![Terraform](https://img.shields.io/badge/IaC-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=623CE4)
+![CDK](https://img.shields.io/badge/IaC-AWS_CDK-informational?style=flat&logo=amazonaws&logoColor=white&color=FF9900)
 
-<!-- links to your social media accounts -->
+**Languages & Tools**
 
-[1]: https://twitter.com/whoisrayelkins
-[2]: https://github.com/rayelkins
-[3]: https://www.linkedin.com/in/ray-elkins/
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
+![Bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=4EAA25)
+![VS Code](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=007ACC)
 
+**AI & Product**
 
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+![Bedrock](https://img.shields.io/badge/AI-AWS_Bedrock-informational?style=flat&logo=amazonaws&logoColor=white&color=FF9900)
+![Agentic AI](https://img.shields.io/badge/Focus-Agentic_AI-informational?style=flat&logo=openai&logoColor=white&color=412991)
+![Product](https://img.shields.io/badge/Role-Technical_PM-informational?style=flat&logo=productboard&logoColor=white&color=E15329)
+
+---
+
+### 📌 Featured Work
+
+> *More projects coming soon, including agentic AI explorations, PRD artifacts, and AWS solution samples.*
+
+[![Lambda Boto3 Examples](https://github-readme-stats.vercel.app/api/pin/?username=rayelkins&repo=Lambda-Boto3-Examples&title_color=ffffff&text_color=c9cacc&icon_color=FF9900&bg_color=1d1f21)](https://github.com/rayelkins/Lambda-Boto3-Examples)
+
+---
+
+### 🎯 Current Focus
+
+- 🤖 Building fluency with **agentic AI frameworks** (Bedrock Agents, LangChain, multi-agent orchestration)
+- 📋 Developing **Technical PM artifacts**: PRDs, roadmaps, and discovery frameworks
+- ☁️ Deepening expertise in **AWS security** and **serverless architecture**
+- 🎓 Applying MBA-level product strategy to real-world cloud problems
+
+---
+
+### 📊 Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayelkins&show_icons=true&count_private=true&hide=issues&title_color=ffffff&text_color=c9cacc&icon_color=FF9900&bg_color=1d1f21)
+
+---
+
+<div align="center">
+  <sub>Always building. Always learning.</sub>
+</div>
