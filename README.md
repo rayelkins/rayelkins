@@ -58,8 +58,8 @@ I spend my days helping enterprise customers architect secure, scalable cloud in
 
 - 🤖 Building fluency with **agentic AI frameworks** (Bedrock Agents, LangChain, multi-agent orchestration)
 - 📋 Developing **Technical PM artifacts**: PRDs, roadmaps, and discovery frameworks
-- ☁️ Deepening expertise in **AWS security** and **serverless architecture**
-- 🎓 Applying MBA-level product strategy to real-world cloud problems
+- ☁️ Deepening expertise in **AWS security** and **Agent AI architecture**
+- 🎓 Applying MBA-level product strategy to real-world Enterprise problems
 
 ---
 
