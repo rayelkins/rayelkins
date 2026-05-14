@@ -50,9 +50,15 @@ I spend my days helping enterprise customers architect secure, scalable cloud in
 
 > *More projects coming soon, including agentic AI explorations, PRD artifacts, and AWS solution samples.*
 
-[![AWS Secrets Manager Audit](https://github-readme-stats.vercel.app/api/pin/?username=aws-samples&repo=sample-secrets-manager-audit&title_color=ffffff&text_color=c9cacc&icon_color=FF9900&bg_color=1d1f21)](https://github.com/aws-samples/sample-secrets-manager-audit)
+#### 🔐 [AWS Secrets Manager Audit](https://github.com/aws-samples/sample-secrets-manager-audit)
+Audit tool that surfaces access patterns and usage across AWS Secrets Manager to help teams identify unused or overly permissioned secrets.
 
-[![KMS Key Access Audit](https://github-readme-stats.vercel.app/api/pin/?username=aws-samples&repo=sample-kms-access-audit&title_color=ffffff&text_color=c9cacc&icon_color=FF9900&bg_color=1d1f21)](https://github.com/aws-samples/sample-kms-access-audit)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![Security](https://img.shields.io/badge/-Security-D32F2F?style=flat)
+
+#### 🔑 [KMS Key Access Audit](https://github.com/aws-samples/sample-kms-access-audit)
+Audit tool that analyzes KMS key access patterns to help teams understand who is using which keys and identify least-privilege opportunities.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![Security](https://img.shields.io/badge/-Security-D32F2F?style=flat)
 
 ---
 
