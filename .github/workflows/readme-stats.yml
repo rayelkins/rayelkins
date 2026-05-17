@@ -17,15 +17,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: >-
-            username=${{ github.repository_owner }}
-            &show_icons=true
-            &count_private=true
-            &hide=issues
-            &title_color=ffffff
-            &text_color=c9cacc
-            &icon_color=FF9900
-            &bg_color=1d1f21
+          options: "username=${{ github.repository_owner }}&show_icons=true&count_private=true&hide=issues&title_color=ffffff&text_color=c9cacc&icon_color=FF9900&bg_color=1d1f21"
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
