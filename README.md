@@ -73,7 +73,7 @@ Audit tool that analyzes KMS key access patterns to help teams understand who is
 
 ### 📊 Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayelkins&show_icons=true&count_private=true&hide=issues&title_color=ffffff&text_color=c9cacc&icon_color=FF9900&bg_color=1d1f21)
+![GitHub Stats](./profile/stats.svg)
 
 ---
 
