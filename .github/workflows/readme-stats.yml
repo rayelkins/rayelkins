@@ -14,13 +14,9 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          username: rayelkins
-          card: stats
-          options: show_icons=true&count_private=true&hide=issues&title_color=ffffff&text_color=c9cacc&icon_color=FF9900&bg_color=1d1f21
-          path: profile/stats.svg
-          token: ${{ secrets.STATS_TOKEN }}
+        run: |
+          curl -f -o profile/stats.svg \
+            "https://github-readme-stats.vercel.app/api?username=rayelkins&show_icons=true&hide=issues&title_color=ffffff&text_color=c9cacc&icon_color=FF9900&bg_color=1d1f21"
 
       - name: Commit updated cards
         run: |
