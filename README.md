@@ -34,9 +34,10 @@ I spend my days helping enterprise customers architect secure, scalable cloud in
 
 **AI & Product**
 
-![Bedrock](https://img.shields.io/badge/AI-AWS_Bedrock-informational?style=flat&logo=amazonaws&logoColor=white&color=FF9900)
+![Bedrock](https://img.shields.io/badge/AI-Amazon_Bedrock-informational?style=flat&logo=amazonaws&logoColor=white&color=FF9900)
 ![Agentic AI](https://img.shields.io/badge/Focus-Agentic_AI-informational?style=flat&logo=openai&logoColor=white&color=412991)
 ![Product](https://img.shields.io/badge/Role-Technical_PM-informational?style=flat&logo=productboard&logoColor=white&color=E15329)
+![Solutions Architect](https://img.shields.io/badge/Role-Solutions_Architect-informational?style=flat&logo=amazonaws&logoColor=white&color=232F3E)
 
 **Agentic Coding Tools**
 
