@@ -16,7 +16,7 @@ jobs:
       - name: Generate stats card
         run: |
           curl -f -o profile/stats.svg \
-            "https://github-stats-extended.vercel.app/api?username=rayelkins&show_icons=true&hide=issues&title_color=ffffff&text_color=c9cacc"
+            "https://github-stats-extended.vercel.app/api?username=rayelkins&show_icons=true&hide=issues&title_color=ffffff&text_color=c9cacc&bg_color=191919&icon_color=ffa116&border_color=191919"
 
       - name: Commit updated cards
         run: |
